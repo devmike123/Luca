@@ -81,7 +81,7 @@ if __name__ == "__main__":
             sys.exit()
 
         elif "open twitter" in query:
-            webbrowser.open("https://twitter.com/google")
+            webbrowser.open("https://twitter.com/")
             sys.exit()
 
         elif "open android" in query:
@@ -110,12 +110,12 @@ if __name__ == "__main__":
             rescue = "Don't forget about" + topic + "" + "at" + momory
 
         elif "temperature" in query:
-            search = "temperature in rishra west bengal"
+            search = "temperature in usa"
             url = f"https://www.google.com/search?q={search}"
             r = requests.get(url)
             data = BeautifulSoup(r.text, "html.parser")
             temp = data.find("div" ,class_="BNeawe").text
-            weather = f"Currently in Rishra it is {temp} with hazz"
+            weather = f"Currently in USA it is {temp} with hazz"
             speak(weather)
             speak(f"Today it will be partly sunny with a forcast tie of {temp}")
 
@@ -123,18 +123,18 @@ if __name__ == "__main__":
             speak("good morning sir")
             time = "The time is " +  datetime.datetime.now().strftime('%I:%M %p')
             speak(time)
-            search = "temperature in rishra west bengal"
+            search = "temperature in usa"
             url = f"https://www.google.com/search?q={search}"
             r = requests.get(url)
             data = BeautifulSoup(r.text, "html.parser")
             temp = data.find("div" ,class_="BNeawe").text
-            weather = f"Currently in Rishra it is {temp} with hazz"
+            weather = f"Currently in USA it is {temp} with hazz"
             speak(weather)
             speak(f"Today it will be partly sunny with a forcast tie of {temp}")
             speak("opening whatsapp")
             webbrowser.open("https://web.whatsapp.com/")
-            speak("playing dhun badal ke toh dekho")
-            pywhatkit.playonyt('dhun badal ke to dekho')
+            speak("playing senorita")
+            pywhatkit.playonyt('senorita')
             speak("Have a good day sir")
             sys.exit()
 
@@ -144,19 +144,7 @@ if __name__ == "__main__":
             speak('playing ' + song)
             pywhatkit.playonyt(song)
             sys.exit()
-
-        elif "song" in query:
-            music_dir = "C:\\Users\\xyz\\Desktop\\Google\\iPad Pro — Float.mp4"
-            os.startfile(music_dir)
-            sys.exit()
-
-        elif "note" in query:
-            key = "C:\\Users\\xyz\\Desktop\\Google\\Google Keynote (Google I_O'19).mp4"
-            os.startfile(key)
-            sys.exit()
-
-
-
+            
         elif "none" in query:
             print("none")
 
