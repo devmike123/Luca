@@ -167,7 +167,7 @@ if __name__ == "__main__":
             speak(" i am very old to use internet but i am very young to sing a song")
 
         elif "what is my name" in query:
-            speak("your name is Aniket")
+            speak("your name is Mike")
 
         elif "news" in query:
             speak("Here is the latest news")
@@ -175,7 +175,7 @@ if __name__ == "__main__":
             sys.exit()
         
         elif "wake up" in query:
-            speak("Good morning Aniket")
+            speak("Good morning Mike")
             music_dir = "C:\\Users\\xyz\\Desktop\\Google\\iPad Pro — Float.mp4"
             os.startfile(music_dir)
             sys.exit()
