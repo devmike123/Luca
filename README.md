@@ -21,8 +21,5 @@ An amazing online Python project which allows you to complete your task,open goo
  
 ## _Developers_
  - Mike (Experienced Python Expert)
- 
-## _More Projects_
- - [Pokechu](https://github.com/AppsoftLimited/Pokechu) (An amazing Pokemon Discord Bot) 
- - Many more
+
              
