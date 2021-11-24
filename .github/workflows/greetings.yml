@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.TOKEN }}
+        issue-message: 'Thanks for taking time contrbuting to the project! I hope you have triggered some issue while using project! Do not worry, we will resolve it as soon as possible! Also, you can check out other issues if you want more help! '
+        pr-message: 'Thanks for taking time contrbuting to the project! I hope you have made some changes to the code to improve the project! I appreciate your work and I promise that I will check the changes and if it proves useful then I will merge it to the main branch! Thank you for your hardwork!'
