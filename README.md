@@ -22,6 +22,6 @@ An amazing online Python project which allows you to complete your task,open goo
  - And Many More....
  
 ## _Developers_
- - Mike (Experienced Python Expert)
+ - Mike 
 
              
