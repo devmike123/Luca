@@ -22,7 +22,7 @@ An amazing online Python project which allows you to complete your task,open goo
  - Set daily routines like google routines etc.
  - And Many More....
  
-## _Developers_
- - DevMike123
+## Authors
+ - [DevMike123](https://github.com/DevMike123)
 
              
