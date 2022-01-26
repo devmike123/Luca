@@ -1,6 +1,6 @@
 # Jarvis
 
-An amazing online Python project which allows you to complete your task,open google, play songs in Youtube and much more!!!
+An amazing voice assistant, made using Python, that allows you to complete your task,open google, play songs in Youtube and much more!!!
 - This project is given for educational purposes only!!! We don't provide hosting or running support for this project!!!
 
 :bangbang: | Jarvis is currently available on Desktop and Laptops only! Android version coming soon!
