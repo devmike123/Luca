@@ -1,0 +1,1 @@
+- Contains the drawable vectors and assets of the project!
