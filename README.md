@@ -5,7 +5,7 @@ An amazing voice assistant, made using Python, that allows you to complete your 
 
 
 
-<img src = "./src/drawable/Jarvis.gif">
+<img src = "./src/drawable/luca.gif">
 
 ![Python](https://img.shields.io/badge/Python-3.8-red?style=for-the-badge)
 ![License](https://img.shields.io/github/license/DevMike123/Luca?style=for-the-badge)
