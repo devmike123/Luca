@@ -1,6 +1,6 @@
 # Jarvis
 
-An amazing voice assistant, made using Python, that allows you to complete your task,open google, play songs in Youtube and much more!!!
+An amazing voice assistant, made using Python, that allows you to complete your task, open Google, play songs in Youtube and much more!!!
 
 
 
@@ -24,15 +24,15 @@ An amazing voice assistant, made using Python, that allows you to complete your 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DevMike123/Jarvis)
  
 ## Contributing with VSCode
-- Clone this repo
+- Fork this repo to start contributing.
 ``` sh
 https://github.com/DevMike123/Jarvis.git
 ```
-- Click on Open Repository in VSCode and paste the link.
+- Click on Open Repository in VSCode and paste the link. The repository gets cloned!
 - After that, you can start making changes and run it. 
 
 - Note: For running Jarvis in VSCode, please take a look at [this](https://github.com/DevMike123/Jarvis/issues/2#issue-1061971979)!
-- Start making changes, pull a request!
+- At the end pull a request!
 - That's it!
  
 ## Authors
