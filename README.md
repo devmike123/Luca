@@ -1,4 +1,4 @@
-# Jarvis
+# Luca
 
 An amazing voice assistant, made using Python, that allows you to complete your task, open Google, play songs in Youtube and much more!!!
 
@@ -8,7 +8,7 @@ An amazing voice assistant, made using Python, that allows you to complete your 
 <img src = "./src/drawable/Jarvis.gif">
 
 ![Python](https://img.shields.io/badge/Python-3.8-red?style=for-the-badge)
-![License](https://img.shields.io/github/license/AppsoftLimited/Jarvis?style=for-the-badge)
+![License](https://img.shields.io/github/license/DevMike123/Luca?style=for-the-badge)
 
 
 ## Features
@@ -21,17 +21,17 @@ An amazing voice assistant, made using Python, that allows you to complete your 
 
 ## Supported Platform
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DevMike123/Jarvis)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DevMike123/Luca)
  
 ## Contributing with VSCode
 - Fork this repo to start contributing.
 ``` sh
-https://github.com/DevMike123/Jarvis.git
+https://github.com/DevMike123/Luca.git
 ```
 - Click on Open Repository in VSCode and paste the link. The repository gets cloned!
 - After that, you can start making changes and run it. 
 
-- Note: For running Jarvis in VSCode, please take a look at [this](https://github.com/DevMike123/Jarvis/issues/2#issue-1061971979)!
+- Note: For running Luca in VSCode, please take a look at [this](https://github.com/DevMike123/Luca/issues/2#issue-1061971979)!
 - At the end pull a request!
 - That's it!
  
