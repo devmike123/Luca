@@ -30,7 +30,8 @@ https://github.com/DevMike123/Jarvis.git
 ```
 - Click on Open Repository in VSCode and paste the link.
 - After that, you can start making changes and run it. 
-Note: For running Jarvis in VSCode, please take a look at this!
+
+- Note: For running Jarvis in VSCode, please take a look at [this](https://github.com/DevMike123/Jarvis/issues/2#issue-1061971979)!
 - Start making changes, pull a request!
 - That's it!
  
