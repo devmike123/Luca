@@ -180,11 +180,11 @@ if __name__ == "__main__":
             os.startfile(music_dir)
             sys.exit()
 
-        elif "discord" in query:
-            speak("opening discord")
-            webbrowser.open("https://discord.com")
 
-        elif "how" in query:
+
+
+
+       elif "how" in query:
             speak(" i am opening a video which can help you")
             pywhatkit.playonyt(query)
             speak("thank you")
