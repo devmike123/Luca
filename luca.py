@@ -77,16 +77,14 @@ if __name__ == "__main__":
             webbrowser.open("www.google.com/search?q=" + cm)
 
         elif "open whatsapp" in query:
-            webbrowser.open("https://web.whatsapp.com/")
+            webbrowser.open("https://whatsapp.com/")
             sys.exit()
 
         elif "open twitter" in query:
             webbrowser.open("https://twitter.com/")
             sys.exit()
 
-        elif "open android" in query:
-            webbrowser.open("https://android.com/")
-            sys.exit()
+        
             
         elif "go to sleep" in query:
             speak("Ok sir have a good day")
