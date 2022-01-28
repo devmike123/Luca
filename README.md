@@ -10,10 +10,6 @@ An amazing voice assistant, made using Python, that allows you to complete your 
 ![Python](https://img.shields.io/badge/Python-3.8-red?style=for-the-badge)
 ![License](https://img.shields.io/github/license/AppsoftLimited/Jarvis?style=for-the-badge)
 
-## Supported Platform
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DevMike123/Jarvis)
- 
 
 ## Features
  - Control your computer using your voice
@@ -22,6 +18,21 @@ An amazing voice assistant, made using Python, that allows you to complete your 
  - Get information about anything you want to know
  - Set daily routines like google routines etc.
  - And Many More....
+
+## Supported Platform
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DevMike123/Jarvis)
+ 
+## Contributing with VSCode
+- Clone this repo
+``` sh
+https://github.com/DevMike123/Jarvis.git
+```
+- Click on Open Repository in VSCode and paste the link.
+- After that, you can start making changes and run it. 
+Note: For running Jarvis in VSCode, please take a look at this!
+- Start making changes, pull a request!
+- That's it!
  
 ## Authors
  - [DevMike123](https://github.com/DevMike123)
