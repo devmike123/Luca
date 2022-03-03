@@ -179,10 +179,7 @@ if __name__ == "__main__":
             sys.exit()
 
 
-
-
-
-       elif "how" in query:
+        elif "how" in query:
             speak(" i am opening a video which can help you")
             pywhatkit.playonyt(query)
             speak("thank you")
@@ -195,7 +192,7 @@ if __name__ == "__main__":
 
 
         else:
-            sir = query.replace("ok jarvis", "")
+            sir = query.replace("ok luca", "")
             webbrowser.open("www.google.com/search?q=" + sir)
             results = wikipedia.summary(query, sentences=2)
             speak("According to wikipedia")
