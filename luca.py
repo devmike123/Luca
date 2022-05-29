@@ -1,3 +1,6 @@
+# :copyright: (c) 2019-present Aniket Bhattacharjee 
+# :license: MIT, see LICENSE for more details.
+
 import pyttsx3
 import speech_recognition as sr
 import datetime
