@@ -175,11 +175,7 @@ if __name__ == "__main__":
             webbrowser.open("https://news.google.co.in/")
             sys.exit()
         
-        elif "wake up" in query:
-            speak("Good morning Mike")
-            music_dir = "C:\\Users\\xyz\\Desktop\\Google\\iPad Pro — Float.mp4"
-            os.startfile(music_dir)
-            sys.exit()
+
 
 
         elif "how" in query:
